@@ -1,0 +1,11 @@
+/* Cascading style sheet for HTML webpage using javaScript */
+
+body {background-color:white; background-image:url(Images/Green-Background.gif);}
+
+table.tableMarginProperty { margin-left:auto; margin-right:auto; margin-top:5%; }
+table {border-style:solid; border-right-width:thin; border-bottom-width:thin; border-top-width:thin; border-left-width:thin; border-color:black }
+
+.captionFontProperty {font-family:fantasy; font-size:22pt; font-weight:bold; color:navy;}
+
+input.customSize {width:100px; height:100px; background-color:olive; font-family:cursive; font-size:26pt; color:aqua;}
+input.customSize:hover {background-color:green;}
